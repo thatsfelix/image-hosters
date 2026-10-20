@@ -1,4 +1,4 @@
-# github-images
+# Image Hosters
 
 Screenshots used in GitHub issues, discussions and pull requests.
 
